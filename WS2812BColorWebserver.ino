@@ -1,5 +1,6 @@
 // NeoPixel Ring simple sketch (c) 2013 Shae Erisson
 // released under the GPLv3 license to match the rest of the AdaFruit NeoPixel library
+// Created by ruben ponce
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
